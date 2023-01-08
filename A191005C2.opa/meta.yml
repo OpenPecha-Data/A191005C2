@@ -1,0 +1,19 @@
+id: A191005C2
+title: Prayer to Jamyang Khyentse Wangpo
+type: translation
+pechas:
+- I4428466E
+- I090B1444
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:35:32.840247
+  last_modified_at: 2023-01-04 12:35:32.840256
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4428466E/CFBC: 47EF
+  I090B1444/4272: 47EF
